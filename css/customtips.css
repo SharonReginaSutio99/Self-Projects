@@ -1,0 +1,7 @@
+body {background:#babdc1;}
+.setting-menu {background:#1267A5;}
+@media(min-width:576px) and (max-width:768px) {
+    .bg {background:red}
+}
+
+
